@@ -1,5 +1,3 @@
-# JPMC-Virtual-Internship
-
 # J.P. Morgan Software Engineering Virtual Intership
 
 The above three tasks are done as a part of JPMorgan Chase &amp; Co. Software Engineering Virtual Internship
