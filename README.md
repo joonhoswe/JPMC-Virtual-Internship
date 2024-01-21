@@ -29,4 +29,4 @@ https://www.theforage.com/virtual-internships/R5iK7HMxJGBgaSbvk
 - `Web Applications`
 
 ## My Certificate of Completion
-![](https://github.com/joonhoswe/JPMC-Virtual-Internship/blob/main/JPMC%20certificate.pdf)
+[Click here to view!](https://github.com/joonhoswe/JPMC-Virtual-Internship/blob/main/JPMC%20certificate.pdf)
